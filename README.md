@@ -7,6 +7,7 @@
 4. Add a `.env` file in the directory to  store the  API key for Gemini which can generated from <a 
  href="https://aistudio.google.com/app/apikey">Google ai studio</a>
 5. Run the app using `streamlit run app.py` 
+6. Run this on the desktop and laptop. Don't run it on Github Codespaces as it will give errors.
 
 
 Contributed by: <br>
